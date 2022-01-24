@@ -79,3 +79,19 @@ body{
     color: rgb(0, 0, 0);
     transition: ease-in 0.5s;
 }
+.buttons_edited{
+    margin: 5px;
+    padding: 10px;
+    width: 90px;
+    font-size: 20px;
+    color: #ffff;
+    background-color: #b6b6b6;
+    border-radius: 10px;
+    border: groove #9b9b9b;
+    transition: ease-out 0.5s;
+}
+.buttons_edited:hover{
+    width: 120px;
+    color: rgb(0, 0, 0);
+    transition: ease-in 0.5s;
+}
